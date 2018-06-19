@@ -1,0 +1,10 @@
+$purple: hsl(275,87%,45%);
+$purple-invert: findColorInvert($purple);
+$primary-color:$purple;
+$section-padding: 5.5rem 1.5rem;
+$section-padding-medium: 10rem 1.5rem;
+$section-padding-large: 20rem 1.5rem;
+$navbar-height: 4rem;
+$white-ter: hsl(0, 0%, 96%);
+$global-font-family: 'Montserrat', sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+@import "uikit/src/scss/variables-theme.scss";

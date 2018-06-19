@@ -1,0 +1,9 @@
+@import '../../styles/setup.scss';
+.app-container {
+  height: 100%;
+}
+
+.sticky-header {
+  margin-bottom: 200px; 
+  z-index: 980;
+}
